@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverN
+  inspection: HasArity:2
+- binding: MoverN
+  inspection: HasRepeat
