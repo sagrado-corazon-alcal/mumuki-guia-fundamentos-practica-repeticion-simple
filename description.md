@@ -1,1 +1,11 @@
 Ahora que ya sabés cómo repetir tareas, vamos a combinar eso con procedimientos y parámetros para solucionar problemas más complejos. :smirk:
+
+Además, vamos a ir introduciendo algunos temas nuevos en el camino... ¡No te los pierdas!
+
+#### Objetivos
+* Vamos a aprender qué son las **Expresiones** más sencillas (¿Sabías que `Azul` es una expresión?)
+* Vamos a empezar a **reutilizar** el código que ya escribimos. Recordá lo que dijo un sabio:
+> "Cada vez que alguien repite código, se muere un gatito" :scream_cat:
+* Profundizaremos el **uso de parámetros**.
+* Vamos a encontrar **patrones que se repiten** y aprenderemos a utilizarlos.
+* Comenzaremos a usar bolitas para **representar otra información**. Es decir, vamos a darle un pequeño **dominio** a nuestros problemas.
