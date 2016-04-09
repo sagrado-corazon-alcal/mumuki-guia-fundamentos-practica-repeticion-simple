@@ -1,0 +1,15 @@
+procedure Diagonal4AzulVolviendo(){
+  D4A()
+  repeat(4){
+    Mover(Sur)
+    Mover(Oeste)
+  }
+}
+
+procedure D4A(){
+  repeat(4){
+    Poner(Azul)
+    Mover(Este)
+    Mover(Norte)
+  }
+}
