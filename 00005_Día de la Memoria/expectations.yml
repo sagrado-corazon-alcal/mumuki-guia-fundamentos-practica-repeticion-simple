@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DiaDeLaMemoria
+  inspection: HasUsage:PonerN
+- binding: DiaDeLaMemoria
+  inspection: Not:HasRepeat
