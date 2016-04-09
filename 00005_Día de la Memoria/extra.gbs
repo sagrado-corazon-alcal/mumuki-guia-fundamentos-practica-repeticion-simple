@@ -3,3 +3,9 @@ procedure PonerN(n,c){
     Poner(c)
   }
 }
+
+procedure Fecha(a,b,c){
+    PonerN(a,Azul)
+    PonerN(b,Verde)
+    PonerN(c,Negro)
+}
