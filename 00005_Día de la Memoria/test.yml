@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: DiaDeLaMemoria()
+subject: DiaDeLaMemoria
 
 examples:
  - initial_board: |
