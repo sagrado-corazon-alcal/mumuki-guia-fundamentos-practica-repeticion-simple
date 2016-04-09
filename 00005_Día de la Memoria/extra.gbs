@@ -6,6 +6,8 @@ procedure PonerN(n,c){
 
 procedure Fecha(a,b,c){
     PonerN(a,Azul)
+    Mover(Este)
     PonerN(b,Verde)
+    Mover(Este)
     PonerN(c,Negro)
 }
