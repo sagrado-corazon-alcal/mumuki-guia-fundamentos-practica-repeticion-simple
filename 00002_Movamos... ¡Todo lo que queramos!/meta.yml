@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+- gobstones
+- repeticion
+- simple
+- movern
 layout: editor_right
 type: problem
 extra_visible: false
