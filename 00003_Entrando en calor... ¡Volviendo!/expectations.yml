@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: Diagonal4AzulVolviendo
+  inspection: HasBinding
+- binding: Diagonal4AzulVolviendo
+  inspection: HasRepeat
+- binding: Diagonal4AzulVolviendo
+  inspection: HasUsage:Diagonal4Azul
