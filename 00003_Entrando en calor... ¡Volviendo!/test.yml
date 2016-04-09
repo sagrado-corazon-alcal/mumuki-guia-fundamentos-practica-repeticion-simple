@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: Diagonal4Azul
+subject: Diagonal4AzulVolviendo
 
 examples:
  - initial_board: |
