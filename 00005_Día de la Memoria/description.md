@@ -1,6 +1,6 @@
 Muchas veces vamos a usar el tablero de Gobstones como memoria, o sea, para recordar algo impotante que vamos a necesitar más adelante. 
 
-¿Qué podríamos representar con bolitas? Por ejemplo una fecha. Una fecha que debemos recordar es el _24 de Marzo de 1976_, hoy constituido [Día de la Memoria por la Verdad y la Justicia](http://www.me.gov.ar/efeme/24demarzo/index.html)
+¿Qué podríamos representar con bolitas? Por ejemplo una fecha. Una fecha que debemos recordar es el _24 de Marzo de 1976_, hoy constituido [Día de la Memoria por la Verdad y la Justicia](http://www.me.gov.ar/efeme/24demarzo/index.html) en Argentina.
 
 El objetivo, entonces, es hacer un procedimiento `DiaDeLaMemoria()`:
 
