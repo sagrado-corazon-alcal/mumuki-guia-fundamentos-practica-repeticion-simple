@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Fecha
+  inspection: HasUsage:PonerN
+- binding: Fecha
+  inspection: Not:HasRepeat
