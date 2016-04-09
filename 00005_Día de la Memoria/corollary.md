@@ -6,7 +6,7 @@ Cuando **usamos** un procedimiento que tiene parámetros como PonerN,
 
 `PonerN(56,Rojo)`
 
-tenemos que enviarle valores por parámetro.
+tenemos que enviarle valores como argumento.
 
 ¡Y las expresiones sirven para eso!
 
