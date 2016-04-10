@@ -1,6 +1,7 @@
 ¡Ya sabés Kung Fu!
 
 Ahora, tenés que mostrarnos que podés dibujar cuatro números del reloj:
+
 * El 12 arriba,
 * El 3 a la derecha,
 * El 9 a la izquierda, y
