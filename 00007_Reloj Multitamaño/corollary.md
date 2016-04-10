@@ -2,5 +2,5 @@
 
 Y como siempre, es **muy importante** dividir el problema en subtareas. Y si puedo **no repetir código**, ¡Aún mejor!
 
-> Preguntate: ¿repetiste código?
+Antes de pasar al siguiente ejercicio preguntate: _¿repetí código?_
 
