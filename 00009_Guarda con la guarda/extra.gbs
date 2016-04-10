@@ -1,0 +1,5 @@
+procedure PonerN(n,c){
+  repeat(n){
+    Poner(c)
+  }
+}

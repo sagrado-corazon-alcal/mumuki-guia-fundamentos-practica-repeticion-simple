@@ -1,3 +1,1 @@
-¿Hiciste más de un procedimiento?
-
-¡Hay que dividir en subtarea
+¿Hiciste más de un procedimiento? ¡Hay que dividir en subtareas!

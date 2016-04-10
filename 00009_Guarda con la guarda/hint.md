@@ -1,1 +1,1 @@
-No te olvides de **dividir en subtareas** y además de considerar **el caso borde**
+No te olvides de **dividir en subtareas** y además de considerar **el caso borde**.
