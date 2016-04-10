@@ -26,7 +26,3 @@ examples:
      cell 4 0 Negro 5
      cell 4 0 Rojo 9
      head 4 0
-   arguments:
-     - 24
-     - Azul
-     - 4
