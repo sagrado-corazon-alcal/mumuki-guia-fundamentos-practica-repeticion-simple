@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:MoverN
 - binding: Reloj
   inspection: Not:HasRepeat
+- binding: Reloj
+  inspection: HasUsage:PonerN
