@@ -1,1 +1,1 @@
-Ahora que tenemos el procedimiento `PonerN(cant,color)`, podemos **usarlo**.
+Ya que definimos `PonerN(cantidad, color)`, ahora podemos **usarlo**.
