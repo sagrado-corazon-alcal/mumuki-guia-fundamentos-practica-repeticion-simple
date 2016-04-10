@@ -18,4 +18,4 @@ program {
 ```
 
 El reloj resultante es así:
-[Reloj.png]()
+[reloj.png]()
