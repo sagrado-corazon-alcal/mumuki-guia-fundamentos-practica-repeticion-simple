@@ -1,5 +1,5 @@
 Ahora que ya escribimos una fecha particular, hagamos un procedimiento que sirva para escribir cualquier fecha.
-> Escribir el procedimiento `Fecha(dia,mes,anio)`, que recibe los **tres valores** correspondientes, y escribe la fecha que representan, de esta manera:
+> Escribí el procedimiento `Fecha(dia,mes,anio)`, que recibe los **tres valores** correspondientes, y escribe la fecha que representan, de esta manera:
 >
 > * En la celda actual, tantas bolitas azules para representar el día.
 > * En la celda inmediatamente al Este, tantas bolitas Verdes para representar el mes.
