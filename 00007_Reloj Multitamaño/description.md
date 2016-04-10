@@ -18,4 +18,5 @@ program {
 ```
 
 El reloj resultante es así:
-[reloj.png]()
+
+![reloj.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-repeticion-simple/master/images/reloj.png)
