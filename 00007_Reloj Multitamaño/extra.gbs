@@ -1,0 +1,11 @@
+procedure PonerN(n,c){
+  repeat(n){
+    Poner(c)
+  }
+}
+
+procedure MoverN(n,d){
+  repeat(n){
+    Mover(d)
+  }
+}
