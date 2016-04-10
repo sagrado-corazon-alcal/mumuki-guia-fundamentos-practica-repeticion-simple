@@ -1,0 +1,11 @@
+procedure PonerAzulejo(){
+    Poner(Verde)
+    PonerN(5,Negro)
+    PonerN(9,Rojo)
+}
+
+procedure PonerN(n,c){
+  repeat(n){
+    Poner(c)
+  }
+}

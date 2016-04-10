@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: GuardaEnL
+  inspection: Not:HasUsage:Poner
+- binding: GuardaEnL
+  inspection: Not:HasUsage:PonerN
+- binding: GuardaEnL
+  inspection: HasRepeat
+- binding: GuardaEnL
+  inspection: HasUsage:PonerAzulejo
