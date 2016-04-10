@@ -8,3 +8,5 @@ expectations:
   inspection: HasRepeat
 - binding: GuardaEnL
   inspection: HasUsage:PonerAzulejo
+- binding: GuardaEnL
+  inspection: HasUsage:MoverN

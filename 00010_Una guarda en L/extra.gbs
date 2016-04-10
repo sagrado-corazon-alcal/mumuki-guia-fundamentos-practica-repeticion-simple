@@ -9,3 +9,9 @@ procedure PonerN(n,c){
     Poner(c)
   }
 }
+
+procedure MoverN(n,d){
+  repeat(n){
+    Mover(d)
+  }
+}
