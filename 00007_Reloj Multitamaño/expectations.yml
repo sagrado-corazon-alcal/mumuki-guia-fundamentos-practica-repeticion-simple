@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: Reloj
+  inspection: HasArity:1
+- binding: Reloj
+  inspection: HasUsage:MoverN
+- binding: Reloj
+  inspection: Not:HasRepeat

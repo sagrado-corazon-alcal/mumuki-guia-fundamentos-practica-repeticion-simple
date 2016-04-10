@@ -1,6 +1,3 @@
 ¡Perfecto!
 
-Aprovechamos para contarte que lo que pusiste entre los paréntesis del `repeat` también es **una expresión** (`cantidad` en este caso). En otras palabras:
-> ¡Un parámetro también es una expresión!
-
-... y también podemos pasarlo como argumento al **usar** un procedimiento: `Mover(direccion)`.
+Acabamos de descubrir que entre los paréntesis del `repeat` no sólo pueden ir números (como 7 o 42), sino también **expresiones** que denoten valores numéricos (como `cantidad` en este caso). No importa si no lo terminás de entender, ya volveremos sobre esto dentro de algunos ejercicios.
