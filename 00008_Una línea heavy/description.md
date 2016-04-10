@@ -1,0 +1,1 @@
+Hacer `LineaEstePesada(peso,color,longitud)`

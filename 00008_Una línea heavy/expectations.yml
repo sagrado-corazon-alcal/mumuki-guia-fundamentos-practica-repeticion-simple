@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: LineaEstePesada
+  inspection: HasArity:3
+- binding: LineaEstePesada
+  inspection: HasRepeat
+- binding: LineaEstePesada
+  inspection: HasUsage:PonerN
+- binding: LineaEstePesada
+  inspection: HasUsage:MoverN
