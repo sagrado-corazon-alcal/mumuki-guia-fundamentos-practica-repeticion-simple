@@ -13,7 +13,7 @@ Dado el siguiente program:
 
 ```gbs
 program {
-  Reloj(4)
+  Reloj(2)
 }
 ```
 
