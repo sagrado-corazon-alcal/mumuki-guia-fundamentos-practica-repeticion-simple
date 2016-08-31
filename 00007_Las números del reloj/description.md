@@ -1,6 +1,6 @@
 ¡Ya sabés Kung Fu!
 
-Ahora, tenés que mostrarnos que podés dibujar los números de las cuatro agujas del reloj:
+Ahora, tenés que mostrarnos que podés _dibujar un reloj_. Lo que haremos por ahora es solamente poner los números que aparecen en un típico reloj de agujas:
 
 * El 12 arriba,
 * El 3 a la derecha,
