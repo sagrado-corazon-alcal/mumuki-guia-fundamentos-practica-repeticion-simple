@@ -4,6 +4,6 @@ Muchas veces vamos a usar el tablero de Gobstones como memoria, o sea, para reco
 
 El objetivo, entonces, es hacer un procedimiento `DiaDeLaMemoria()`:
 
-* En la celda actual, pone 24 bolitas Azules, que representan el día.
-* En la celda inmediatamente al Este, pone 3 bolitas Verdes, que representan el mes.
-* En la celda a continuación, pone 1976 bolitas Negras, representando el año.
+* En la celda actual, pone 24 bolitas Azules, que **representan** el día.
+* En la celda inmediatamente al Este, pone 3 bolitas Verdes, que **representan** el mes.
+* En la celda a continuación, pone 1976 bolitas Negras, **representando** el año.
