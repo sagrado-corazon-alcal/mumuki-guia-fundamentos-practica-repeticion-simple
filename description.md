@@ -8,4 +8,4 @@ Además, vamos a ir introduciendo algunos temas nuevos en el camino... ¡No te l
 _"Cada vez que alguien repite código, se muere un gatito"_ :scream_cat:
 * Profundizaremos el **uso de parámetros**.
 * Vamos a encontrar **patrones que se repiten** y aprenderemos a utilizarlos.
-* Comenzaremos a usar bolitas para **representar información**. Es decir, vamos a darle un pequeño **dominio** a nuestros problemas.
+* Comenzaremos a usar bolitas para **representar información**. Es decir, vamos a darle un pequeño **dominio** a nuestros problemas, usando las bolitas para representar otra cosa: personas, autos, flores, ¡lo que se te ocurra!
