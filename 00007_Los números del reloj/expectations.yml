@@ -1,10 +1,10 @@
 ---
 expectations:
-- binding: Reloj
+- binding: DibujarReloj
   inspection: HasArity:1
-- binding: Reloj
+- binding: DibujarReloj
   inspection: HasUsage:MoverN
-- binding: Reloj
+- binding: DibujarReloj
   inspection: Not:HasRepeat
-- binding: Reloj
+- binding: DibujarReloj
   inspection: HasUsage:PonerN

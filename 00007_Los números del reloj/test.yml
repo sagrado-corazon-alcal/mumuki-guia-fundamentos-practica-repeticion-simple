@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: Reloj
+subject: DibujarReloj
 
 examples:
  - initial_board: |
