@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: MoverN
+- !ruby/hash:BSON::Document
+  binding: MoverN
   inspection: HasArity:2
-- binding: MoverN
+- !ruby/hash:BSON::Document
+  binding: MoverN
   inspection: HasRepeat

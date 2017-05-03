@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: PonerN
+- !ruby/hash:BSON::Document
+  binding: PonerN
   inspection: HasArity:2
-- binding: PonerN
+- !ruby/hash:BSON::Document
+  binding: PonerN
   inspection: HasRepeat

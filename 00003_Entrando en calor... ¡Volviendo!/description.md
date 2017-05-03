@@ -1,6 +1,6 @@
 En la guía anterior, vimos que se podía usar `repeat` para hacer algo muchas veces. Hicimos un ejemplo que se llamaba `Diagonal4Azul`, que era más o menos así:
 
-```puppet
+```gobstones
 procedure Diagonal4Azul(){
     repeat(4){
         Poner(Azul)

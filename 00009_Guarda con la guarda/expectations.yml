@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: GuardaDe5
+- !ruby/hash:BSON::Document
+  binding: GuardaDe5
   inspection: HasUsage:PonerN
-- binding: GuardaDe5
+- !ruby/hash:BSON::Document
+  binding: GuardaDe5
   inspection: HasRepeat

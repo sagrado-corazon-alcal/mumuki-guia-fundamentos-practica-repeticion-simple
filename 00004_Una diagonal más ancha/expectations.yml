@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: BandaDiagonal4
+- !ruby/hash:BSON::Document
+  binding: BandaDiagonal4
   inspection: HasUsage:Diagonal4AzulVolviendo
-- binding: BandaDiagonal4
+- !ruby/hash:BSON::Document
+  binding: BandaDiagonal4
   inspection: HasRepeat
