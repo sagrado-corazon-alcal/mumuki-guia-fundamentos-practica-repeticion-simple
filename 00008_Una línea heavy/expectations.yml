@@ -1,14 +1,10 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: LineaEstePesada
+- binding: LineaEstePesada
   inspection: HasArity:3
-- !ruby/hash:BSON::Document
-  binding: LineaEstePesada
+- binding: LineaEstePesada
   inspection: HasRepeat
-- !ruby/hash:BSON::Document
-  binding: LineaEstePesada
+- binding: LineaEstePesada
   inspection: HasUsage:PonerN
-- !ruby/hash:BSON::Document
-  binding: LineaEstePesada
+- binding: LineaEstePesada
   inspection: HasUsage:MoverN

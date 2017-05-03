@@ -1,17 +1,12 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: GuardaEnL
+- binding: GuardaEnL
   inspection: Not:HasUsage:Poner
-- !ruby/hash:BSON::Document
-  binding: GuardaEnL
+- binding: GuardaEnL
   inspection: Not:HasUsage:PonerN
-- !ruby/hash:BSON::Document
-  binding: GuardaEnL
+- binding: GuardaEnL
   inspection: HasRepeat
-- !ruby/hash:BSON::Document
-  binding: GuardaEnL
+- binding: GuardaEnL
   inspection: HasUsage:PonerAzulejo
-- !ruby/hash:BSON::Document
-  binding: GuardaEnL
+- binding: GuardaEnL
   inspection: HasUsage:MoverN

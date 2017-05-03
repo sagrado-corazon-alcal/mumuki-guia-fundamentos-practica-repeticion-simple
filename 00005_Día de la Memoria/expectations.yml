@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: DiaDeLaMemoria
+- binding: DiaDeLaMemoria
   inspection: HasUsage:PonerN
-- !ruby/hash:BSON::Document
-  binding: DiaDeLaMemoria
+- binding: DiaDeLaMemoria
   inspection: Not:HasRepeat

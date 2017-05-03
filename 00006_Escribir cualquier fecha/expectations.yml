@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: Fecha
+- binding: Fecha
   inspection: HasUsage:PonerN
-- !ruby/hash:BSON::Document
-  binding: Fecha
+- binding: Fecha
   inspection: Not:HasRepeat
