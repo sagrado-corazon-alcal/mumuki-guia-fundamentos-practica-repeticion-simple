@@ -1,4 +1,4 @@
-¡Ya sabés Kung Fu!
+_¡Ya sabés Kung Fu!_
 
 Ahora, tenés que mostrarnos que podés _dibujar un reloj_. Lo que haremos por ahora es solamente poner los números que aparecen en un típico reloj de agujas:
 
