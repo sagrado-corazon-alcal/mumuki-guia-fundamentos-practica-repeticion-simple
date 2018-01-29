@@ -10,19 +10,9 @@ examples:
    final_board: |
      GBB/1.0
      size 5 1
-     cell 0 0 Verde 1
-     cell 0 0 Negro 5
-     cell 0 0 Rojo 9
-     cell 1 0 Verde 1
-     cell 1 0 Negro 5
-     cell 1 0 Rojo 9
-     cell 2 0 Verde 1
-     cell 2 0 Negro 5
-     cell 2 0 Rojo 9
-     cell 3 0 Verde 1
-     cell 3 0 Negro 5
-     cell 3 0 Rojo 9
-     cell 4 0 Verde 1
-     cell 4 0 Negro 5
-     cell 4 0 Rojo 9
+     cell 0 0 Verde 1 Negro 5 Rojo 9
+     cell 1 0 Verde 1 Negro 5 Rojo 9
+     cell 2 0 Verde 1 Negro 5 Rojo 9
+     cell 3 0 Verde 1 Negro 5 Rojo 9
+     cell 4 0 Verde 1 Negro 5 Rojo 9
      head 4 0
