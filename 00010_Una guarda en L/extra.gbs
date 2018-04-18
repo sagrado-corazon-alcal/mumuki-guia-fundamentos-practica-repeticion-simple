@@ -4,14 +4,14 @@ procedure PonerAzulejo(){
     PonerN(9,Rojo)
 }
 
-procedure PonerN(n,c){
-  repeat(n){
-    Poner(c)
+procedure PonerN(cantidad,color){
+  repeat(cantidad){
+    Poner(color)
   }
 }
 
-procedure MoverN(n,d){
-  repeat(n){
-    Mover(d)
+procedure MoverN(cantidad,direccion){
+  repeat(cantidad){
+    Mover(direccion)
   }
 }
