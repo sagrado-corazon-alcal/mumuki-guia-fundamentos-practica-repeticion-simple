@@ -1,1 +1,1 @@
-> Creá un procedimiento `MoverN(cantidad, direccion)` que haga que el cabezal se desplace la cantidad especificada de veces en la dirección indicada.
+Creá un procedimiento `MoverN(cantidad, direccion)` que haga que el cabezal se desplace la cantidad especificada de veces en la dirección indicada.
