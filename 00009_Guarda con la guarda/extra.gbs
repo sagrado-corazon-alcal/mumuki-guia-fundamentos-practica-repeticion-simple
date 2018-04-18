@@ -1,5 +1,5 @@
-procedure PonerN(n,c){
-  repeat(n){
-    Poner(c)
+procedure PonerN(cantidad,color){
+  repeat(cantidad){
+    Poner(color)
   }
 }
