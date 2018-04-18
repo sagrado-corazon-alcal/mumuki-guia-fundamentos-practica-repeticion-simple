@@ -1,12 +1,12 @@
 procedure Diagonal4AzulVolviendo(){
-  D4A()
+  Diagonal4AzulAvanzando()
   repeat(4){
     Mover(Sur)
     Mover(Oeste)
   }
 }
 
-procedure D4A(){
+procedure Diagonal4AzulAvanzando(){
   repeat(4){
     Poner(Azul)
     Mover(Este)
