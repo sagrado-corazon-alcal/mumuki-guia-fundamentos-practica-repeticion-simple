@@ -1,13 +1,13 @@
-procedure PonerN(n,c){
-  repeat(n){
-    Poner(c)
+procedure PonerN(cantidad,color){
+  repeat(cantidad){
+    Poner(color)
   }
 }
 
-procedure Fecha(a,b,c){
-    PonerN(a,Azul)
+procedure Fecha(dia,mes,anio){
+    PonerN(dia,Azul)
     Mover(Este)
-    PonerN(b,Verde)
+    PonerN(mes,Verde)
     Mover(Este)
-    PonerN(c,Negro)
+    PonerN(anio,Negro)
 }
