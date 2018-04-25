@@ -4,6 +4,15 @@ Muchas veces vamos a usar el tablero de Gobstones como memoria, o sea, para reco
 
 El objetivo, entonces, es hacer un procedimiento `DiaDeLaMemoria()`:
 
-* En la celda actual, pone 24 bolitas Azules, que **representan** el día.
-* En la celda inmediatamente al Este, pone 3 bolitas Verdes, que **representan** el mes.
-* En la celda a continuación, pone 1976 bolitas Negras, **representando** el año.
+* En la celda actual, poné 24 bolitas Azules, que **representan** el día.
+* En la celda inmediatamente al Este, poné 3 bolitas Verdes, que **representan** el mes.
+* En la celda a continuación, poné 1976 bolitas Negras, **representando** el año.
+
+<gs-board>
+  GBB/1.0
+  size 3 1
+  cell 0 0 Azul 24 
+  cell 1 0 Verde 3 
+  cell 2 0 Negro 1976
+  head 2 0
+</gs-board>
