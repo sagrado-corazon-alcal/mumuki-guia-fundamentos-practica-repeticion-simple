@@ -11,7 +11,7 @@ Ahora, tenés que mostrarnos que podés _dibujar un reloj_. Lo que haremos por a
 
 Dado el siguiente program:
 
-```gbs
+```gobstones
 program {
   DibujarReloj(2)
 }
