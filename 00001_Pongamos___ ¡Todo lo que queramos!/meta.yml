@@ -1,9 +1,10 @@
 ---
 tags:
 - gobstones
-- repeticion
+- repetición
 - simple
-- movern
+- parámetros
+- ponern
 layout: input_right
 editor: code
 type: problem
@@ -11,3 +12,4 @@ extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
+name: Pongamos... ¡Todo lo que queramos!
