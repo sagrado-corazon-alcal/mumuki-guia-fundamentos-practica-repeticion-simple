@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: GuardaEnL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
   inspection: Not:HasUsage:Poner
-- binding: GuardaEnL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
   inspection: Not:HasUsage:PonerN
-- binding: GuardaEnL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
   inspection: HasRepeat
-- binding: GuardaEnL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
   inspection: HasUsage:PonerAzulejo
-- binding: GuardaEnL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GuardaEnL
   inspection: HasUsage:MoverN

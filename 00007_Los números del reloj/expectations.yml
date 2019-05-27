@@ -1,10 +1,11 @@
 ---
 expectations:
-- binding: DibujarReloj
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
   inspection: HasArity:1
-- binding: DibujarReloj
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
   inspection: HasUsage:MoverN
-- binding: DibujarReloj
-  inspection: Not:HasRepeat
-- binding: DibujarReloj
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarReloj
   inspection: HasUsage:PonerN

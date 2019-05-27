@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerN
   inspection: HasArity:2
-- binding: PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerN
   inspection: HasRepeat

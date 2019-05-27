@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: Diagonal4AzulVolviendo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Diagonal4AzulVolviendo
   inspection: HasRepeat
-- binding: Diagonal4AzulVolviendo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Diagonal4AzulVolviendo
   inspection: HasUsage:Diagonal4Azul
