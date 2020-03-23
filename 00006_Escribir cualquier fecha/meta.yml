@@ -1,8 +1,6 @@
 ---
-tags:
-- gobstones
-- parámetros
-- PonerN
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

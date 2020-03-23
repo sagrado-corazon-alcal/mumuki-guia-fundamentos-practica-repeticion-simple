@@ -1,9 +1,6 @@
 ---
-tags:
-- gobstones
-- MoverN
-- Reloj
-- PonerN
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

@@ -1,9 +1,6 @@
 ---
-tags:
-- gobstones
-- repeticion
-- simple
-- movern
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

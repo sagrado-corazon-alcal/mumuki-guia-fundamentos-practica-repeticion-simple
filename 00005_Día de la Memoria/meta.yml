@@ -1,9 +1,6 @@
 ---
-tags:
-- gobstones
-- reutilizacion
-- ponern
-- parámetros
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

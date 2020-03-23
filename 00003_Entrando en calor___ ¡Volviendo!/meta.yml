@@ -1,8 +1,6 @@
 ---
-tags:
-- gobstones
-- repetición
-- simple
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

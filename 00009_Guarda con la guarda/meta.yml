@@ -1,10 +1,6 @@
 ---
-tags:
-- Gobstones
-- repetición
-- simple
-- PonerN
-- subtareas
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

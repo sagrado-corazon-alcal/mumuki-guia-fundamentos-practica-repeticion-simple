@@ -1,13 +1,11 @@
 ---
-tags:
-- Gobstones
-- subtareas
-- repetición
-- simple
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem
 extra_visible: true
+teacher_info: ''
 manual_evaluation: false
 choices: []
 name: Una guarda en L
