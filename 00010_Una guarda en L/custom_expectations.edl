@@ -1,2 +1,2 @@
-expectation "tiene que dividir en subtareas":
+expectation "hay que dividir en subtareas. Tené en cuenta qué estructuras se repiten y trasladalas a un nuevo procedimiento":
    within `GuardaEnL` delegates; 
